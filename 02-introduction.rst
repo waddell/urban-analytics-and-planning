@@ -49,8 +49,8 @@ have no single right answer.  We see this as not a weakness of the approach we t
 Our goal is to help readers grapple with the complexity that cities represent, to make sense of the patterns within
 that complexity, and to have a stronger foundation with which to engage in working to improve their communities.
 
-Data and Analytics
--------------------
+Data
+----
 
 In recent years, the term *smart cities* has come to be widely (over)used to describe a loose collection of ideas that
 tend to emphasize the emergence of Big Data, the use of sensors to *instrument* cities and monitor every aspect of the
@@ -83,24 +83,48 @@ sort out in an information-poor environment, which is unfortunately where we fin
 era.  We think there is also much to be learned from emerging new sources of data, some of which are not being created by
 local governments, but by individuals using online platforms, such as Craigslist, to list or to search for rental units.
 
-What kinds of analytics can be brought to bear on available data to gain a deeper understanding of cities?  We explore
-some common statistical methods such as multiple regression analysis to analyze how we can better understand the way
-that locational and other amenities contribute to the price of housing.  We examine the location choices of households
-in the housing market using discrete choice models that help to probe how households trade off aspects such as price,
-access, and other amenities, given their own income and other characteristics.  We use accessibility metrics to gain
-insights into patterns of access to jobs and other opportunities, and how these differ
-for people of different incomes or ethnic groups.  We will examine metrics for clustering of employment and for
-segregation of neighborhoods.
+Analytics
+---------
+
+What kinds of analytics can be brought to bear on available data to gain a deeper understanding of cities?
+
+* We use *indicators* of various kinds to measure or benchmark urban outcomes of interest at different geographic levels
+* We use accessibility metrics to gain insights into patterns of access to jobs and other opportunities, and how these differ
+  for people of different incomes or ethnic groups.
+* We will examine metrics for clustering of employment and for segregation of neighborhoods.
+* We explore some common statistical methods such as multiple regression analysis to analyze how we can better understand
+  the way that locational and other amenities contribute to the price of housing.
+* We examine the location choices of households in the housing market using discrete choice models that help to probe
+  how households trade off aspects such as price, access, and other amenities, given their own income and other characteristics.
+
 
 Models
 ------
 
-Urban models are quantitative or mathematical tools to capture what we understand or theorize about cities in a
-systematic way.  We will explore the evolution of urban models from highly abstract theoretical models used to
+Urban models are quantitative (statistical or mathematical) tools to capture what we understand or theorize about cities
+in a systematic way.  We will explore the evolution of urban models from highly abstract theoretical models used to
 describe traditional mono-centric cities of the 19th century, to more behaviorally explicit and detailed
 simulation models that are growing in capabilities and in use to support urban planning efforts.  Our treatment will
 be at a modest technical level, intended to convey a general understanding of how the models are structured, and to
 focus mostly on using existing models to explore questions about urban areas and the alternative policy choices
 they face.  We will draw heavily on the UrbanSim model system for this component, and make use of the recently
 developed UrbanSim Cloud Platform to make the models readily accessible via a web browser user interface.
+
+Questions
+---------
+
+The kinds of questions that we hope to enable readers to more productively engage in addressing as they work through
+this material include:
+
+* Why do housing prices vary so dramatically between metropolitan areas, and within them?
+* How important is accessibility in undertstanding variation in housing prices?  Is auto access more important than
+  transit, or walk access?
+* How would you measure the *performance* of a neighborhood, or a city, or metropolitan region?
+* How much added housing would need to be built in San Francisco to make a significant difference in its housing affordability crisis?
+* Would rent control, or inclusionary zoning, or some other policy be more effective in reducing housing price pressures for renters
+  in high-cost regions?  What are the side-effects or unintended consequences of these policy tools?
+* Why do some cities require developers to add affordable units to proposed projects, but then give them a density bonus?
+* What factors contribute to gentrification of neighborhoods and displacement of low income households?
+* What policies can stimulate economic development in economically depressed communities? How do these depend on the
+  regional economic context?
 
