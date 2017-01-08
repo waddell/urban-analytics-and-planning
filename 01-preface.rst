@@ -17,8 +17,29 @@ investment in transportation and other infrastructure.
 About this book
 ---------------
 
+The origin of this book is as a set of notes for a graduate course in land and housing markets in the masters program
+in the Department of City and Regional Planning at the University of California, Berkeley.  The aim of the course
+is to engage students in theory and data that helps to understand how markets and governments interact to shape cities
+and metropolitan regions, with a special focus on land and housing markets.
+
+Prerequisites
++++++++++++++
+
+The material in this book should not require a strong quantitative or programming background,
+but will contain some technical material, hopefully presented in an reasonably accessible way.
+More technical treatment will be provided separately.
+
+
+
+Formatting
+++++++++++++++++
+
 This book has been written in |ReST|_ format and generated using the
 `rst2html.py` command line available from the docutils_ python package.
+The format and idea for writing it in |ReST|_ format came from this project of Nicholas P. Rougier:
+https://github.com/rougier/from-python-to-numpy.  I have shamelessly borrowed his templates and style to
+get this project underway.  Besides the formatting, there is no overlap with Rougier's project, however.
+
 
 If you want to rebuild the html output, from the top directory, type:
 
@@ -29,53 +50,12 @@ If you want to rebuild the html output, from the top directory, type:
                  --stylesheet-dirs=. book.rst book.html
 
 The sources are available from https://github.com/waddell/urban-analytics-and-planning.
-                   
+
 .. |ReST| replace:: restructured text
 .. _ReST: http://docutils.sourceforge.net/rst.html
 .. _docutils: http://docutils.sourceforge.net/
 
-Acknowledgements
-++++++++++++++++
 
-The format and idea for writing it in |ReST|_ format came from this project of Nicholas P. Rougier:
-https://github.com/rougier/from-python-to-numpy.  I have shamelessly borrowed his templates and style to
-get this project underway.  Besides the formatting, there is no overlap with Rougier's project, however.
-
-Prerequisites
-+++++++++++++
-
-The material in this book should not require a strong quantitative or programming background,
-but will contain some technical material, hopefully presented in an reasonably accessible way.
-More technical treatment will be provided separately.
-
-
-Conventions
-+++++++++++
-
-We will use usual naming conventions. If not stated explicitly, each script
-should import numpy, scipy and matplotlib as:
-
-.. code-block:: python
-   
-   import numpy as np
-   import scipy as sp
-   import matplotlib.pyplot as plt
-
-
-We'll use up-to-date versions (at the date of writing, i.e. January, 2017) of the
-different packages:
-
-=========== =========
-Packages    Version
-=========== =========
-Python      3.5.2
------------ ---------
-Numpy       1.11.2
------------ ---------
-Scipy       0.18.1
------------ ---------
-Matplotlib  1.5.3
-=========== =========
 
 How to contribute
 +++++++++++++++++
@@ -91,7 +71,7 @@ Publishing
 ++++++++++
 
 If you're an editor interested in publishing this book, you can `contact me
-<mailto:waddell@berkeley.com>`
+<mailto:waddell@berkeley.com>`_
 
 
 **Code**
