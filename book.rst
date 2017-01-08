@@ -16,16 +16,6 @@
 
 .. default-role:: code
 
-.. container:: title-logos
-
-   .. image:: data/cc.large.png
-      :width: 40px
-   .. image:: data/by.large.png
-      :width: 40px
-   .. image:: data/sa.large.png
-      :width: 40px
-   .. image:: data/nc.large.png
-      :width: 40px
 
    |
    | Latest version - |date|
