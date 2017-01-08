@@ -96,7 +96,7 @@ If you're an editor interested in publishing this book, you can `contact me
 
 **Code**
 
-The code is licensed under the `OSI-approved BSD 3-Clause License
+The code is licensed under the `OSI-approved BSD 2-Clause License
 <LICENSE-code.txt>`_.
 
 
