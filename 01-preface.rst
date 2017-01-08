@@ -28,19 +28,24 @@ If you want to rebuild the html output, from the top directory, type:
                  --toc-top-backlinks --stylesheet=book.css \
                  --stylesheet-dirs=. book.rst book.html
 
-The sources are available from https://github.com/rougier/from-python-to-numpy.
+The sources are available from https://github.com/waddell/urban-analytics-and-planning.
                    
 .. |ReST| replace:: restructured text
 .. _ReST: http://docutils.sourceforge.net/rst.html
 .. _docutils: http://docutils.sourceforge.net/
 
+Acknowledgements
+----------------
+The format and idea for writing it in |ReST|_ format came from this project of Nicholas P. Rougier:
+https://github.com/rougier/from-python-to-numpy.  I have shamelessly borrowed his templates and style to
+get this project underway.  Besides the formatting, there is no overlap with Rougier's project, however.
 
 Prerequisites
 +++++++++++++
 
-This is not a Python beginner guide and you should have an intermediate level in
-Python and ideally a beginner level in numpy. If this is not the case, have
-a look at the bibliography_ for a curated list of resources.
+The material in this book should not require a strong quantitative or programming background,
+but will contain some technical material, hopefully presented in an reasonably accessible way.
+More technical treatment will be provided separately.
 
 
 Conventions
@@ -77,24 +82,15 @@ How to contribute
 If you want to contribute to this book, you can:
 
 * Review chapters (please contact me)
-* Report issues (https://github.com/rougier/from-python-to-numpy/issues)
-* Suggest improvements (https://github.com/rougier/from-python-to-numpy/pulls)
-* Correct English (https://github.com/rougier/from-python-to-numpy/issues)
-* Design a better and more responsive html template for the book.
-* Star the project (https://github.com/rougier/from-python-to-numpy)
+* Report issues (https://github.com/waddell/urban-analytics-and-planning/issues)
+* Suggest improvements (https://github.com/waddell/urban-analytics-and-planning/pulls)
+* Star the project (https://github.com/waddell/urban-analytics-and-planning)
 
 Publishing
 ++++++++++
 
 If you're an editor interested in publishing this book, you can `contact me
-<mailto:Nicolas.Rougier@inria.fr>`_ if you agree to have this version and all
-subsequent versions open access (i.e. online at `this address
-<http://www.labri.fr/perso/nrougier/from-python-to-numpy>`_), you know how to
-deal with `restructured text <http://docutils.sourceforge.net/rst.html>`_ (Word
-is not an option), you provide a real added-value as well as supporting
-services, and more importantly, you have a truly amazing latex book template
-(and be warned that I'm a bit picky about typography & design: `Edward Tufte
-<https://www.edwardtufte.com/tufte/>`_ is my hero). Still here?
+<mailto:waddell@berkeley.com>`
 
 
 License
