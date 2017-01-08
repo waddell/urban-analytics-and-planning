@@ -35,7 +35,8 @@ The sources are available from https://github.com/waddell/urban-analytics-and-pl
 .. _docutils: http://docutils.sourceforge.net/
 
 Acknowledgements
-----------------
+++++++++++++++++
+
 The format and idea for writing it in |ReST|_ format came from this project of Nicholas P. Rougier:
 https://github.com/rougier/from-python-to-numpy.  I have shamelessly borrowed his templates and style to
 get this project underway.  Besides the formatting, there is no overlap with Rougier's project, however.
