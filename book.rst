@@ -65,7 +65,6 @@ is rapidly emerging about almost every dimension of urban life.
 .. ----------------------------------------------------------------------------
 .. include:: 01-preface.rst
 .. include:: 02-introduction.rst
-.. include:: 10-bibliography.rst
 
 
 .. --- Compilation ------------------------------------------------------------
