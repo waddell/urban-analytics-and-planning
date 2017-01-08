@@ -32,7 +32,6 @@
    | DOI: `10.5281/zenodo.225783 <http://doi.org/10.5281/zenodo.225783>`_
 
 .. ----------------------------------------------------------------------------
-.. container:: title-logos
 
    .. image:: data/cover.png
       :width: 100%
