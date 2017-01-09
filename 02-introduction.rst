@@ -8,16 +8,18 @@ Introduction
 Motivation
 -----------
 
-There are so many books written about cities, how they work, and how to plan them, so why write another? This book aims to
-fill a gap in more traditional urban economics texts that rely heavily on the assumptions of neoclassical economics at
-the expense, in our estimation, of more nuanced consideration of equity
-concerns and political economy aspects of cities and the metropolitan regions they inhabit.  Urban economics texts also tend
-to to be relatively
+There are so many books written about cities, their economies and housing markets, and how to plan them, so why write another?
+After using a variety of urban economics texts to teach graduate students in city planning at the University of California, Berkeley,
+I found that they did not adequately support the kind of learning experience students were looking for.  The simplifying
+assumptions were often so strong that students had a difficult time recognizing the relevance of the models that
+followed from them. Urban economics texts tend to rely heavily on the assumptions of neoclassical economics at
+the expense, in our estimation, of more nuanced consideration of equity concerns and political economy aspects of cities
+and the metropolitan regions they inhabit.  Urban economics texts also tend to to be relatively
 uninformed by the emergence of massive amounts of emerging data about cities, and to gloss over the details of
-urban form, design, and structure in favor of more stylized, mathematically tractable theoretical representations.  The
-aims of this book are to balance ideas from urban economics with consideration of equity and the role of government in
-structuring
-markets for real estate, labor, infrastructure and public services by cities, counties, metropolitan planning
+urban form and urban design in favor of more stylized, mathematically tractable theoretical representations.
+
+The aims of this book are to balance ideas from urban economics with consideration of equity and the role of government in
+structuring markets for real estate, labor, infrastructure and public services by cities, counties, metropolitan planning
 organizations, state and federal agencies.  We also seek to broaden the discussion by taking a
 more modern approach to engaging theory with data.  The proliferation of publicly available data and the rapid
 advancement of analytical and computational methods to analyze data about cities and metropolitan areas has not, in
@@ -101,9 +103,9 @@ What kinds of analytics can be brought to bear on available data to gain a deepe
 Models
 ------
 
-Urban models are quantitative (statistical or mathematical) tools to capture what we understand or theorize about cities
-in a systematic way.  We will explore the evolution of urban models from highly abstract theoretical models used to
-describe traditional mono-centric cities of the 19th century, to more behaviorally explicit and detailed
+Urban models are quantitative (mathematical, statistical, and/or computational) tools to capture what we understand or
+theorize about cities in a systematic way.  We will explore the evolution of urban models from highly abstract theoretical
+models used to describe traditional mono-centric cities of the 19th century, to more behaviorally explicit and detailed
 simulation models that are growing in capabilities and in use to support urban planning efforts.  Our treatment will
 be at a modest technical level, intended to convey a general understanding of how the models are structured, and to
 focus mostly on using existing models to explore questions about urban areas and the alternative policy choices
@@ -127,4 +129,7 @@ this material include:
 * What factors contribute to gentrification of neighborhoods and displacement of low income households?
 * What policies can stimulate economic development in economically depressed communities? How do these depend on the
   regional economic context?
+
+Organization
+------------
 
