@@ -5,13 +5,17 @@ Preface
    :local:
 
 
-About the author
-----------------
+About the authors
+-----------------
 
-`Paul Waddell` is a professor of city and regional planning at the University
+`Paul Waddell`_ is a professor of city and regional planning at the University
 of California, Berkeley.  His research and teaching focus on planning and modeling
 cities, with particular emphasis on the interactive impacts of of land use regulations and
 investment in transportation and other infrastructure.
+
+`Samuel Maurer` is a Ph.D. student in city planning at the University of California, Berkeley.
+He has worked on urban mapping, simulation modeling, and economic forecasting for a variety
+of public and private sector organizations. His interests include land use typologies and travel behavior.
 
 
 About this book
