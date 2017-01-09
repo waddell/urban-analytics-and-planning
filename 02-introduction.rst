@@ -132,4 +132,27 @@ this material include:
 
 Organization
 ------------
+Below is a draft list of the chapters in this book:
 
+* Economic Concepts and Models
+* History of Urban Models
+* Urban Simulation Models
+* Patterns in Housing Prices and Rents
+* Modeling Housing Prices and Rents
+* Modeling Tenure Choices
+* Modeling Residential Location Choices
+* Modeling Housing Development
+* Regional Planning and Urban Simulation
+* Market Analysis for Housing Affordability
+* Modeling Project Feasibility
+
+Optionally the following modeling centric chapters:
+* Monocentric Models
+* Spatial Interaction Models
+* Spatial Input-Output Models
+* Cellular Automata and Agent-based Models
+
+Optionally the following data-centric chapters:
+* Patterns in Density
+* Patterns in Accessibility
+* Variability in Social Clustering and Segregation
